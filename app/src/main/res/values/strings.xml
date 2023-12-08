@@ -16,5 +16,11 @@
     <string name="ipsum_lorem">
         Hi
     </string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
 
 </resources>
